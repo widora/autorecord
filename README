@@ -1,0 +1,8 @@
+NOTE:
+1. Widora C test programs for ALSA, automatic record and playback, with options of a simple noise filter. 
+   The recorded sound wav can be saved as wav and mp3.
+   See more notes and descriptions in respective source files.
+
+2. The Makefile only gives an example for 'autorecord4' compilation, you can modify it easily for other applications.
+   Modify INCLUDE and LIB directories according to your own setup.
+
